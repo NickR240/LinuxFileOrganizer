@@ -1,0 +1,3 @@
+[submodule "external/FileCategoryLibrary"]
+	path = external/FileCategoryLibrary
+	url = https://github.com/nickr240/FileCategoryLibrary.git
