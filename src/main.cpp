@@ -1,4 +1,3 @@
-```cpp
 #include "FileCategoryLibrary/FileCategory.h"
 
 #include <algorithm>
@@ -358,4 +357,3 @@ int main()
     // Program completed successful
     return 0;
 }
-```
