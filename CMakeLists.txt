@@ -8,7 +8,10 @@ add_executable(FileOrganizer
     src/main.cpp
 )
 
-target_compile_features(FileOrganizer PRIVATE cxx_std_17)
+target_compile_features(FileOrganizer
+    PRIVATE
+        cxx_std_17
+)
 
 target_link_libraries(FileOrganizer
     PRIVATE
